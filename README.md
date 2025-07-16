@@ -1,9 +1,11 @@
-## Hi there 👋
-#👋 Hi, I’m @Jogu Srinivas
-#👀 I’m aspiring AI and ML Student
-#🌱 I’m currently learning React.
-#I’m persuing Bachelors of Engineering in Osmania University
-#Eager to leverage solid programming skills in Java and Python, along with proficiency in web development technologies such as HTML, CSS, and JavaScript, to #contribute effectively to innovative projects in the field of AI and ML. Seeking an entry-level position.
+## 👋 Hi there!
+
+### 👋 Hi, I’m @Jogu Srinivas  
+👀 I’m an aspiring AI and ML student  
+🌱 I’m currently learning React  
+🎓 I’m pursuing a Bachelor’s of Engineering at Osmania University  
+💻 Eager to leverage solid programming skills in **Java** and **Python**, along with proficiency in **HTML, CSS, and JavaScript**, to contribute to innovative projects in **AI and ML**.  
+🚀 Seeking an **entry-level position** in software development or AI/ML fields.
 
 <!--
 **Srinivas9121/Srinivas9121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
